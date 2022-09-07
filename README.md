@@ -1,5 +1,7 @@
-👋 Hi, I’m @joerg-di-griz
+# 👋 Hi, I’m Joerg di Griz
+
 I’m interested in creating a better developer economy
+
 I’m currently learning Groovy, JavaScript, HTML, and CSS
 
 <!---
